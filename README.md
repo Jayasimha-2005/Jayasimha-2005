@@ -39,8 +39,8 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayasimha-2005&show_icons=true&theme=github_dark&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasimha-2005&layout=compact&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayasimha-2005&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&cache_bust=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasimha-2005&layout=compact&theme=github_dark&cache_bust=1" />
 </p>
 
 ---
