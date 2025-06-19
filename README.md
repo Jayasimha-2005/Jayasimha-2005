@@ -21,7 +21,7 @@
 I'm **Jayasimha Padigeri**, a passionate **B.Tech CSE** student at **RGUKT RK Valley**, focused on building meaningful and scalable digital solutions.
 
 💡 I've worked on impactful projects such as:
-- Project-S (SmartStudy): A student academic companion with to-do lists, timetables, notes, games, and chatbot.
+- Project-S (SmartStudy): A student academic companion with to-do lists, timetables, notes, games, and chatbot. [Live Demo](https://jayasimha-2005.github.io/Project_S/)
 - Expense Tracker Pro: A secure, full-stack tracker app using Node.js, Express, and MongoDB with live deployment.
 - AI-Powered Sign Language Interpreter
 - Event Management System (Hackathon Project)
