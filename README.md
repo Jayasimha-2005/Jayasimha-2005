@@ -1,9 +1,11 @@
 <div align="center">
 
- <h1 align="center">
-  Hi there, I'm <span style="color:#00e676; font-weight:bold;">Jayasimha Padigeri</span>
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" alt="waving hand" />
+<h1 align="center">
+  Hi there   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" style="vertical-align: middle;" alt="waving hand" />
+ <br>
+ I'm <span style="color:#00e676; font-weight:bold;">Jayasimha Padigeri</span>
 </h1>
+
 
   <p><em>A student developer, full-stack enthusiast & problem solver.</em></p>
 
