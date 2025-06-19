@@ -91,9 +91,6 @@ Secured 2nd place at **Vasista 2K24** for developing a clean, responsive website
 - ✅ **Event Management System for RGUKT RK Valley**  
 Built a full-featured platform to streamline event scheduling, volunteer management, and fundraising with a focus on usability and efficiency.
 
-- 🏁 **Finalist – Hackathon for Social Impact**  
-Created a web-based solution focused on solving real-world challenges during a hackathon, showcasing strong problem-solving and teamwork.
-
 ---
 
 ## 📫 Let’s Connect
