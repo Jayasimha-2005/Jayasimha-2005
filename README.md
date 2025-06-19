@@ -1,8 +1,7 @@
 <div align="center">
-  
-  <h1 align="center">Hey there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Jayasimha here!</h1>
 
-  <p><code>A student who codes, learns, and builds solutions with creativity.</code></p>
+  <h1 align="center">Hi there, I'm <span style="color:#00e676; font-weight:bold;">Jayasimha Padigeri</span> 👋</h1>
+  <p><em>A student developer, full-stack enthusiast & problem solver.</em></p>
 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200px" alt="Coding GIF" />
 
@@ -10,40 +9,43 @@
     <img src="https://komarev.com/ghpvc/?username=Jayasimha-2005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" />
   </p>
 
-  <h2 align="center">Student ▸ Developer ◂ Innovator</h2>
+  <h3 align="center">💻 I build apps & websites that solve real-world problems</h3>
 
+  <hr>
 </div>
-
-<br/>
 
 ## 🙋🏻‍♂️ About Me
 
-I'm **Jayasimha Padigeri**, a passionate **B.Tech CSE** student at **RGUKT RK Valley**, focused on building meaningful and scalable digital solutions.
+🚀 I'm a **B.Tech CSE** student at **RGUKT RK Valley**, passionate about developing tools and applications that help people learn, manage, and grow.
 
-💡 I've worked on impactful projects such as:
-- Project-S (SmartStudy): A student academic companion with to-do lists, timetables, notes, games, and chatbot. [Live Demo](https://jayasimha-2005.github.io/Project_S/)
+💼 My focus areas:
+- Full Stack Web Development (MERN stack)
+- Backend API Integration
+- UI/UX-centered responsive design
+
+🧩 Projects that define me:
+- Project-S (SmartStudy): Academic planner with to-do lists, timetables, notes, and built-in chatbot — <a href="https://jayasimha-2005.github.io/Project_S/" style="color: #00e676; font-weight: bold;">🚀 Live Demo</a>
 - Expense Tracker Pro: A secure, full-stack tracker app using Node.js, Express, and MongoDB with live deployment.
-- AI-Powered Sign Language Interpreter
+- AI Sign Language Interpreter
 - Event Management System (Hackathon Project)
 - Annual Report Portal (Smart India Hackathon)
 
-🌱 Currently learning Full Stack Development, APIs, and deploying real-time applications.
-
+🌱 Currently learning Docker, Cloud Deployment & System Design.
 ---
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jayasimha-2005&theme=react-dark&hide_border=true&area=true)
 
-<hr>
+---
 
-<h3 align="center">📊 My GitHub Stats</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jayasimha-2005&show_icons=true&theme=github_dark&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasimha-2005&layout=compact&theme=github_dark"/>
 </p>
 
-<hr>
+---
 
-## 🛠️ Technologies & Tools I Use
+## 🛠️ Tools & Technologies
 
 ### 🌐 Web Development
 <p>
@@ -72,12 +74,14 @@ I'm **Jayasimha Padigeri**, a passionate **B.Tech CSE** student at **RGUKT RK Va
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25px"/>
 </p>
 
-### 🧪 Tools & Platforms
+### 🧪 Dev Tools
 <p>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="25px"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25px"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25px"/>
 </p>
+
+---
 
 ## 🏆 Achievements
 
@@ -86,9 +90,13 @@ Secured 2nd place at **Vasista 2K24** for developing a clean, responsive website
 
 - ✅ **Event Management System for RGUKT RK Valley**  
 Built a full-featured platform to streamline event scheduling, volunteer management, and fundraising with a focus on usability and efficiency.
+
+- 🏁 **Finalist – Hackathon for Social Impact**  
+Created a web-based solution focused on solving real-world challenges during a hackathon, showcasing strong problem-solving and teamwork.
+
 ---
 
-## ❤️ Let’s Connect
+## 📫 Let’s Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/jayasimha-p-49465b22a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/></a>
   <a href="mailto:padigerijaya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30px"/></a>
