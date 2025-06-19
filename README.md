@@ -30,7 +30,7 @@
 - Event Management System (Hackathon Project)
 - Annual Report Portal (Smart India Hackathon)
 
-🌱 Currently learning Docker, Cloud Deployment & System Design.
+🌱 Currently learning Full Stack Development, APIs, and deploying real-time applications.
 ---
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jayasimha-2005&theme=react-dark&hide_border=true&area=true)
