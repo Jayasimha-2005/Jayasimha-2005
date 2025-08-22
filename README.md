@@ -95,5 +95,5 @@ Built a full-featured platform to streamline event scheduling, volunteer managem
 
 ## 📫 Let’s Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/jayasimha-padigeri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/></a>
+  <a href="https://www.linkedin.com/in/jayasimha-padigeri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/></a>
 </p>
