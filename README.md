@@ -38,18 +38,12 @@
 
 🌱 Currently learning Full Stack Development, APIs, and deploying real-time applications.
 ---
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jayasimha-2005&theme=react-dark&hide_border=true&area=true)
 
----
-
-<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayasimha-2005&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&cache_bust=1" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasimha-2005&layout=compact&theme=github_dark&cache_bust=1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayasimha-2005&show_icons=true&theme=github_dark&count_private=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasimha-2005&layout=compact&theme=github_dark&cache_seconds=1800" />
 </p>
-
----
 
 ## 🛠️ Tools & Technologies
 
@@ -101,5 +95,5 @@ Built a full-featured platform to streamline event scheduling, volunteer managem
 
 ## 📫 Let’s Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/jayasimha-p-49465b22a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/></a>
+  <a href="https://www.linkedin.com/in/jayasimha-padigeri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/></a>
 </p>
