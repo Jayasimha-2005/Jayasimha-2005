@@ -96,10 +96,9 @@ Git, GitHub, Postman, Render, Visual Studio Code
 ## Achievements & Recognition
 
 * 🥇 Winner – Hack the Flame Hackathon
-* 🥇 Winner – Techzite 2K25 (IoT Category)
-* 🥈 Second Place – Vasista 2K24
+* 🥇 Winner – Techzite 2K25 
+* 🥈 Second Place – Vasista Hackathon 
 * 🌍 Top 10 Teams – EVEREST Engineering
-* 🎯 Finalist – ACEI Aravind Hackathon
 * 🏆 Project Selected – ACEI Hackathon, Pondicherry (RetiNote)
 
 ---
