@@ -1,99 +1,111 @@
+# Hi, I’m Jayasimha Padigeri 👋
+
+**Full-Stack & Mobile App Developer (UI/UX-Focused) | AI/ML Enthusiast**                                                                   
+**Undergraduate Computer Science Student**                                                                      
+🎓 RGUKT RK Valley | 🇮🇳 India
+
+I build **complete, production-ready web and mobile applications** — from **UI/UX design and frontend** to **backend APIs, databases, and deployment**.
+I enjoy working at the intersection of **design, engineering, and intelligence**, and I care deeply about building products that are actually usable.
+
+> I focus on shipping usable products, not just demos.
+
 <div align="center">
-
-<h1 align="center">
-  Hi there   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" style="vertical-align: middle;" alt="waving hand" />
- <br>
- I'm <span style="color:#00e676; font-weight:bold;">Jayasimha Padigeri</span>
-</h1>
-
-
-  <p><em>A student developer, full-stack enthusiast & problem solver.</em></p>
-
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200px" alt="Coding GIF" />
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Jayasimha-2005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" />
-  </p>
-
-  <h3 align="center">💻 I build apps & websites that solve real-world problems</h3>
-
-  <hr>
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400"/>
 </div>
 
-## 🙋🏻‍♂️ About Me
-
-🚀 I'm a **B.Tech CSE** student at **RGUKT RK Valley**, passionate about developing tools and applications that help people learn, manage, and grow.
-
-💼 My focus areas:
-- Full Stack Web Development (MERN stack)
-- Backend API Integration
-- UI/UX-centered responsive design
-
-🧩 Projects that define me:
-- Project-S (SmartStudy): Academic planner with to-do lists, timetables, notes, and built-in chatbot — <a href="https://jayasimha-2005.github.io/Project_S/" style="color: #00e676; font-weight: bold;">🚀 Live Demo</a>
-- Expense Tracker Pro: A secure, full-stack tracker app using Node.js, Express, and MongoDB with live deployment.
-- AI Sign Language Interpreter
-- Event Management System (Hackathon Project)
-- Annual Report Portal (Smart India Hackathon)
-
-🌱 Currently learning Full Stack Development, APIs, and deploying real-time applications.
 ---
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jayasimha-2005&theme=react-dark&hide_border=true&area=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayasimha-2005&show_icons=true&theme=github_dark&count_private=true&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasimha-2005&layout=compact&theme=github_dark&cache_seconds=1800" />
-</p>
+## What I Do
 
-## 🛠️ Tools & Technologies
+I like taking an idea from scratch and turning it into a **real, working product**.
 
-### 🌐 Web Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25px"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
-</p>
+That usually means:
 
-### ⚙️ Backend Development
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="25px"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="25px"/>
-</p>
+* Designing clean, intuitive **UI/UX**
+* Building **frontend interfaces** for web and mobile
+* Developing **backend APIs & database logic**
+* Deploying and maintaining applications
+* Iterating based on real usage and feedback
 
-### 💾 Databases
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" height="25px"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25px"/>
-</p>
-
-### 🧠 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25px"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25px"/>
-</p>
-
-### 🧪 Dev Tools
-<p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="25px"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25px"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25px"/>
-</p>
+I value **clarity, usability, and finishing what I start**.
 
 ---
 
-## 🏆 Achievements
+## Things I’ve Built
 
-- 🥈 **Second Place – Helping Hands Organization Website Competition**  
-Secured 2nd place at **Vasista 2K24** for developing a clean, responsive website. Demonstrated strong skills in **web development**, **UI/UX design**, and **team collaboration**.
+### 🩺 LifeBand Maa
 
-- ✅ **Event Management System for RGUKT RK Valley**  
-Built a full-featured platform to streamline event scheduling, volunteer management, and fundraising with a focus on usability and efficiency.
+A **HealthTech mobile application** for maternal health monitoring.
+Worked as a **Frontend Developer**, focusing on mobile UX, real-time alerts, and emergency flows.
+
+🏆 Recognized at **PitchTank, Hack the Flame, Techzite & EVEREST Engineering**
 
 ---
 
-## 📫 Let’s Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/jayasimha-padigeri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/></a>
-</p>
+### 📝 RetiNote
+
+A **Flutter-based notes application** where I worked as a **Frontend Developer**.
+Focused on clean UI, usability, and smooth user experience.
+
+🏆 Selected for **ACEI Hackathon, Pondicherry**
+
+---
+
+### 🎓 Civil Farewell Portal
+
+A real-world **event portal** built and deployed for actual usage.
+Handled frontend, backend, database, and deployment end-to-end.
+
+🔗 [https://civil-farewell-portal.onrender.com/](https://civil-farewell-portal.onrender.com/)
+
+---
+
+### 🏫 Smart School Management System
+
+A complete **full-stack application** for Admin, Teacher, and Parent workflows.
+Reduced manual work through automation and clean UI.
+
+🔗 [https://school-management-system-nine-inky.vercel.app/](https://school-management-system-nine-inky.vercel.app/)
+
+---
+
+### 📚 Project-S (SmartStudy)
+
+An academic planner used by **50+ students**.
+Includes to-do lists, timetables, notes, and progress tracking.
+
+🔗 [https://jayasimha-2005.github.io/Project_S/](https://jayasimha-2005.github.io/Project_S/)
+
+---
+
+
+## Technical Skills
+
+**Languages :**
+Java, Python, C, JavaScript, SQL, HTML, CSS
+
+**Frameworks & Libraries :**
+React.js, React Native, Flutter, Node.js, Express.js, Mysql, Firebase
+Pandas, NumPy
+
+**Tools :**
+Git, GitHub, Postman, Render, Visual Studio Code
+
+---
+
+## Achievements & Recognition
+
+* 🥇 Winner – Hack the Flame Hackathon
+* 🥇 Winner – Techzite 2K25 (IoT Category)
+* 🥈 Second Place – Vasista 2K24
+* 🌍 Top 10 Teams – EVEREST Engineering
+* 🎯 Finalist – ACEI Aravind Hackathon
+* 🏆 Project Selected – ACEI Hackathon, Pondicherry (RetiNote)
+
+---
+
+## Let’s Connect
+
+🔗 LinkedIn: [https://www.linkedin.com/in/jayasimha-padigeri](https://www.linkedin.com/in/jayasimha-padigeri)
+
+📧 Email: [padigerijaya@gmail.com](mailto:padigerijaya@gmail.com)
