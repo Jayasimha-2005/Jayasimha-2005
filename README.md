@@ -1,8 +1,10 @@
 # Hi, I’m Jayasimha Padigeri 👋
 
-**Full-Stack & Mobile App Developer (UI/UX-Focused) | AI/ML Enthusiast**                                                                   
-**Undergraduate Computer Science Student**                                                                      
-🎓 RGUKT RK Valley | 🇮🇳 India
+**Full-Stack & Mobile App Developer (UI/UX-Focused) | AI-Integrated Applications**  
+**Undergraduate Computer Science Student**  
+🎓 RGUKT RK Valley | 🇮🇳 India  
+
+🌐 **Portfolio:** https://jayasimha-portfolio.vercel.app/
 
 I build **complete, production-ready web and mobile applications** — from **UI/UX design and frontend** to **backend APIs, databases, and deployment**.
 I enjoy working at the intersection of **design, engineering, and intelligence**, and I care deeply about building products that are actually usable.
@@ -105,7 +107,7 @@ Git, GitHub, Postman, Render, Visual Studio Code
 
 ## Let’s Connect
 
-🔗 LinkedIn: [https://www.linkedin.com/in/jayasimha-padigeri](https://www.linkedin.com/in/jayasimha-padigeri)
+🌐 Portfolio: https://jayasimha-portfolio.vercel.app/  
+🔗 LinkedIn: https://www.linkedin.com/in/jayasimha-padigeri  
+📧 Email: padigerijaya@gmail.com
 
-
-📧 Email: [padigerijaya@gmail.com](mailto:padigerijaya@gmail.com)
