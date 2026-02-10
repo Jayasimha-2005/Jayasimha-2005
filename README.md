@@ -1,12 +1,12 @@
 # Hi, I’m Jayasimha Padigeri 👋
 
-**Full-Stack & Mobile App Developer (UI/UX-Focused) | AI-Integrated Applications**  
+**Full-Stack & Mobile App Developer  | AI-Integrated Applications**  
 **Undergraduate Computer Science Student**  
 🎓 RGUKT RK Valley | 🇮🇳 India  
 
 🌐 **Portfolio:** https://jayasimha-portfolio.vercel.app/
 
-I build **complete, production-ready web and mobile applications** — from **UI/UX design and frontend** to **backend APIs, databases, and deployment**.
+I build **complete, production-ready web and mobile applications** — from **frontend** to **backend APIs, databases, and deployment**.
 I enjoy working at the intersection of **design, engineering, and intelligence**, and I care deeply about building products that are actually usable.
 
 > I focus on shipping usable products, not just demos.
