@@ -4,7 +4,6 @@
 **Undergraduate Computer Science Student**  
 🎓 RGUKT RK Valley | 🇮🇳 India  
 
-🌐 **Portfolio:** https://jayasimha-portfolio.vercel.app/
 
 I build **complete, production-ready web and mobile applications** — from **frontend** to **backend APIs, databases, and deployment**.
 I enjoy working at the intersection of **design, engineering, and intelligence**, and I care deeply about building products that are actually usable.
