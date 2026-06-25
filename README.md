@@ -74,6 +74,7 @@ Developed a role-based Progressive Web App (PWA) supporting Admin, Teacher, and 
 ### 📄 Publications
 
 **Deep Learning and Big Data Stream Analytics for Real-Time Financial Fraud Detection: A Comprehensive Review** `(Apr 2026)`
+
 *Authors: E. Susmitha, Soumya M, Jayasimha Padigeri*<br>
 *Second International Conference on Engineering, Science and Management (ICESM) 2026*
 - Co-authored a comprehensive review on advanced real-time fraud detection techniques using deep learning and big data stream processing.
