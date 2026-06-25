@@ -27,7 +27,7 @@ Innovative and detail-oriented final-year Computer Science student with a strong
 
 ### 💼 Experience
 
-- **Speaker Verification Research Intern** @ *IIIT Sri City* `(May 2026 - Jul 2026)`
+- **Speaker Verification Research Intern** @ *IIIT Sri City* `(May 2026 - Present)`
   - Researched text-dependent and text-independent speaker verification using the ECAPA-TDNN architecture on VoxCeleb and RedDots datasets.
   - Performed audio preprocessing, speaker embedding extraction, and evaluated models using EER and minDCF metrics.
 
